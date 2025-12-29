@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered PDF to Word OCR",
+  "description": "An advanced OCR application that converts PDF documents to Word files while preserving layout, checking spelling with Gemini AI, and highlighting uncertain words in red.",
+  "requestFramePermissions": []
+}
